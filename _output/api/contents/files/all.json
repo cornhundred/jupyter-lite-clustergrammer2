@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-07-18T05:20:21.494031Z",
+      "format": null,
+      "last_modified": "2021-07-18T05:19:42.575222Z",
+      "mimetype": null,
+      "name": "Clustergrammer2_Lite.ipynb",
+      "path": "files/Clustergrammer2_Lite.ipynb",
+      "size": 2834,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-07-18T05:20:21.493686Z",
+  "format": "json",
+  "last_modified": "2021-07-18T05:20:21.493686Z",
+  "mimetype": null,
+  "name": "files",
+  "path": "files",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
